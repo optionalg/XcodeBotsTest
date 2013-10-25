@@ -16,6 +16,8 @@
     
     //changed comment stuff.
     
+    NSLog(@"TEST");
+    
     
     return YES;
 }
